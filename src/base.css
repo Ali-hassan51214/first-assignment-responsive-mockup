@@ -1,0 +1,25 @@
+html {
+    font-size: 0.6em;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    padding-top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    color: #444444;
+    max-width: 1200px;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Inter" , sans-serif;
+    font-weight: 600;
+    color: #222222;
+}
+
+h1 {
+    font-size:2.5rem;
+    text-align: center;
+}
